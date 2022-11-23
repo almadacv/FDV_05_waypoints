@@ -3,3 +3,6 @@ En este ejercicio, importamos dos scripts del activo de __[Standard Assets](http
 Una vez realizada la importación, creamos un circuito. para hacer esto creamos un gameobject vacío e insertamos varios gameobjects como hijos y los posicionamos como queramos. Al gameobject padre, asociamos el script Waypoint Circuit y seleccionamos la opción para usar todos los gamobjects que son hijos de él.
 
 luego creamos otro gameobject que perseguirá a nuestro objetivo, y le asociamos el script Waypoint Progess Tracker y reutilizamos el script que hace que un objeto persiga al otro.
+
+
+ ![Waypoints](https://github.com/almadacv/FDV_05_waypoints/blob/main/Gif/Waypoints.gif)
